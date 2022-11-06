@@ -1,0 +1,8 @@
+
+### Check Message Publisher Api
+
+POST http://localhost:9000/publish
+Content-Type: application/json
+{
+  "message": "Hello"
+}
